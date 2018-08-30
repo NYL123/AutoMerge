@@ -30,9 +30,9 @@
         <module>it.launcher</module>
     </modules>
     <scm>
-       <connection>scm:git:git://github.com/NYL123/NewRepo.git</connection>
-       <developerConnection>scm:git:git@github.com:NYL123/NewRepo.git</developerConnection>
-       <url>http://github.com/NYL123/NewRepo</url>
+       <connection>scm:git:git://github.com/NYL123/AutoMerge.git</connection>
+       <developerConnection>scm:git:git@github.com:NYL123/AutoMerge.git</developerConnection>
+       <url>http://github.com/NYL123/AutoMerge</url>
        <tag>HEAD</tag>
      </scm>
     <properties>
